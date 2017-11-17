@@ -766,6 +766,12 @@ K Red 7 segemnt LED common anode
 F https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
 $ENDCMP
 #
+$CMP MCOT096016AY
+D 96x16 Graphic OLED, I2C Interface
+K 96x16, oled
+F http://www.midasdisplays.com/pdf/MCOT096016AY.pdf
+$ENDCMP
+#
 $CMP RC1602A
 D LCD 16x2 Alphanumeric gray backlight, 3 or 5 V VDD
 K LCD 16x2 Alphanumeric gray backlight, 3 or 5 V VDD
